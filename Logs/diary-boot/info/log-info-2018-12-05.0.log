@@ -1,0 +1,365 @@
+===2018-12-05 14:52:43.211 INFO  Application Line:48  - Starting Application on DESKTOP-7NNO5PD with PID 8624 (started by cbalt in H:\项目\学校项目\diary-boot)
+===2018-12-05 14:52:43.291 INFO  Application Line:593 - No active profile set, falling back to default profiles: default
+===2018-12-05 14:52:44.298 INFO  org.hibernate.validator.internal.util.Version Line:30  - HV000001: Hibernate Validator 5.3.5.Final
+===2018-12-05 14:52:56.067 INFO  org.apache.catalina.core.StandardService Line:179 - Starting service [Tomcat]
+===2018-12-05 14:52:56.069 INFO  org.apache.catalina.core.StandardEngine Line:179 - Starting Servlet Engine: Apache Tomcat/8.5.23
+===2018-12-05 14:52:56.335 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:179 - Initializing Spring embedded WebApplicationContext
+===2018-12-05 14:53:01.155 INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler Line:60  - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+===2018-12-05 14:53:01.156 INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler Line:60  - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+===2018-12-05 14:53:01.157 INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler Line:60  - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+===2018-12-05 14:53:01.157 INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler Line:83  - Clear EntityHelper entityTableMap cache.
+===2018-12-05 14:53:02.735 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Initializing ProtocolHandler ["https-jsse-nio-9999"]
+===2018-12-05 14:53:02.783 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Starting ProtocolHandler ["https-jsse-nio-9999"]
+===2018-12-05 14:53:03.262 INFO  org.apache.tomcat.util.net.NioSelectorPool Line:179 - Using a shared selector for servlet write/read
+===2018-12-05 14:53:03.279 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Initializing ProtocolHandler ["http-nio-80"]
+===2018-12-05 14:53:03.281 INFO  org.apache.tomcat.util.net.NioSelectorPool Line:179 - Using a shared selector for servlet write/read
+===2018-12-05 14:53:03.282 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Starting ProtocolHandler ["http-nio-80"]
+===2018-12-05 14:53:03.317 INFO  Application Line:28  - 服务器启动成功。。。
+===2018-12-05 14:53:03.319 INFO  Application Line:57  - Started Application in 21.703 seconds (JVM running for 28.018)
+===2018-12-05 14:59:42.956 INFO  Application Line:48  - Starting Application on DESKTOP-7NNO5PD with PID 10408 (started by cbalt in H:\项目\学校项目\diary-boot)
+===2018-12-05 14:59:42.960 INFO  Application Line:593 - No active profile set, falling back to default profiles: default
+===2018-12-05 14:59:43.136 INFO  org.hibernate.validator.internal.util.Version Line:30  - HV000001: Hibernate Validator 5.3.5.Final
+===2018-12-05 14:59:48.041 INFO  org.apache.catalina.core.StandardService Line:179 - Starting service [Tomcat]
+===2018-12-05 14:59:48.042 INFO  org.apache.catalina.core.StandardEngine Line:179 - Starting Servlet Engine: Apache Tomcat/8.5.23
+===2018-12-05 14:59:48.244 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:179 - Initializing Spring embedded WebApplicationContext
+===2018-12-05 14:59:50.755 INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler Line:60  - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+===2018-12-05 14:59:50.756 INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler Line:60  - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+===2018-12-05 14:59:50.757 INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler Line:60  - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+===2018-12-05 14:59:50.757 INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler Line:83  - Clear EntityHelper entityTableMap cache.
+===2018-12-05 14:59:51.916 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Initializing ProtocolHandler ["https-jsse-nio-9999"]
+===2018-12-05 14:59:51.930 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Starting ProtocolHandler ["https-jsse-nio-9999"]
+===2018-12-05 14:59:52.238 INFO  org.apache.tomcat.util.net.NioSelectorPool Line:179 - Using a shared selector for servlet write/read
+===2018-12-05 14:59:52.270 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Initializing ProtocolHandler ["http-nio-80"]
+===2018-12-05 14:59:52.272 INFO  org.apache.tomcat.util.net.NioSelectorPool Line:179 - Using a shared selector for servlet write/read
+===2018-12-05 14:59:52.272 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Starting ProtocolHandler ["http-nio-80"]
+===2018-12-05 14:59:52.290 INFO  Application Line:28  - 服务器启动成功。。。
+===2018-12-05 14:59:52.291 INFO  Application Line:57  - Started Application in 9.702 seconds (JVM running for 13.094)
+===2018-12-05 15:06:39.834 INFO  Application Line:48  - Starting Application on DESKTOP-7NNO5PD with PID 17056 (started by cbalt in H:\项目\学校项目\diary-boot)
+===2018-12-05 15:06:39.837 INFO  Application Line:593 - No active profile set, falling back to default profiles: default
+===2018-12-05 15:06:40.034 INFO  org.hibernate.validator.internal.util.Version Line:30  - HV000001: Hibernate Validator 5.3.5.Final
+===2018-12-05 15:06:44.626 INFO  org.apache.catalina.core.StandardService Line:179 - Starting service [Tomcat]
+===2018-12-05 15:06:44.627 INFO  org.apache.catalina.core.StandardEngine Line:179 - Starting Servlet Engine: Apache Tomcat/8.5.23
+===2018-12-05 15:06:44.748 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:179 - Initializing Spring embedded WebApplicationContext
+===2018-12-05 15:06:46.939 INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler Line:60  - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+===2018-12-05 15:06:46.940 INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler Line:60  - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+===2018-12-05 15:06:46.941 INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler Line:60  - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+===2018-12-05 15:06:46.941 INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler Line:83  - Clear EntityHelper entityTableMap cache.
+===2018-12-05 15:06:48.041 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Initializing ProtocolHandler ["https-jsse-nio-9999"]
+===2018-12-05 15:06:48.056 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Starting ProtocolHandler ["https-jsse-nio-9999"]
+===2018-12-05 15:06:48.349 INFO  org.apache.tomcat.util.net.NioSelectorPool Line:179 - Using a shared selector for servlet write/read
+===2018-12-05 15:06:48.361 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Initializing ProtocolHandler ["http-nio-80"]
+===2018-12-05 15:06:48.363 INFO  org.apache.tomcat.util.net.NioSelectorPool Line:179 - Using a shared selector for servlet write/read
+===2018-12-05 15:06:48.363 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Starting ProtocolHandler ["http-nio-80"]
+===2018-12-05 15:06:48.378 INFO  Application Line:28  - 服务器启动成功。。。
+===2018-12-05 15:06:48.379 INFO  Application Line:57  - Started Application in 9.03 seconds (JVM running for 12.18)
+===2018-12-05 15:10:10.911 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:179 - Initializing Spring FrameworkServlet 'dispatcherServlet'
+===2018-12-05 15:10:11.188 INFO  org.thymeleaf.TemplateEngine Line:825 - [THYMELEAF] INITIALIZING TEMPLATE ENGINE
+===2018-12-05 15:10:11.284 INFO  org.thymeleaf.templateresolver.AbstractTemplateResolver Line:99  - [THYMELEAF] INITIALIZING TEMPLATE RESOLVER: org.thymeleaf.spring4.templateresolver.SpringResourceTemplateResolver
+===2018-12-05 15:10:11.285 INFO  org.thymeleaf.templateresolver.AbstractTemplateResolver Line:110 - [THYMELEAF] TEMPLATE RESOLVER INITIALIZED OK
+===2018-12-05 15:10:11.285 INFO  org.thymeleaf.messageresolver.AbstractMessageResolver Line:72  - [THYMELEAF] INITIALIZING MESSAGE RESOLVER: org.thymeleaf.spring4.messageresolver.SpringMessageResolver
+===2018-12-05 15:10:11.285 INFO  org.thymeleaf.messageresolver.AbstractMessageResolver Line:78  - [THYMELEAF] MESSAGE RESOLVER INITIALIZED OK
+===2018-12-05 15:10:11.290 INFO  org.thymeleaf.TemplateEngine.CONFIG Line:123 - [THYMELEAF] TEMPLATE ENGINE CONFIGURATION:
+[THYMELEAF] * Cache Factory implementation: org.thymeleaf.cache.StandardCacheManager
+[THYMELEAF] * Template modes:
+[THYMELEAF]     * XML
+[THYMELEAF]     * LEGACYHTML5
+[THYMELEAF]     * VALIDXHTML
+[THYMELEAF]     * HTML5
+[THYMELEAF]     * VALIDXML
+[THYMELEAF]     * XHTML
+[THYMELEAF] * Template resolvers (in order):
+[THYMELEAF]     * org.thymeleaf.spring4.templateresolver.SpringResourceTemplateResolver
+[THYMELEAF] * Message resolvers (in order):
+[THYMELEAF]     * org.thymeleaf.spring4.messageresolver.SpringMessageResolver
+[THYMELEAF] * Dialect [1 of 3]: org.thymeleaf.spring4.dialect.SpringStandardDialect
+[THYMELEAF]     * Prefix: "th"
+[THYMELEAF] * Dialect [2 of 3]: at.pollux.thymeleaf.shiro.dialect.ShiroDialect
+[THYMELEAF]     * Prefix: "shiro"
+[THYMELEAF] * Dialect [3 of 3]: nz.net.ultraq.thymeleaf.LayoutDialect
+[THYMELEAF]     * Prefix: "layout"
+[THYMELEAF] TEMPLATE ENGINE CONFIGURED OK
+===2018-12-05 15:10:11.290 INFO  org.thymeleaf.TemplateEngine Line:838 - [THYMELEAF] TEMPLATE ENGINE INITIALIZED
+===2018-12-05 15:12:42.819 INFO  com.zaxxer.hikari.HikariDataSource Line:95  - HikariPool-1 - Starting...
+===2018-12-05 15:12:43.406 INFO  com.zaxxer.hikari.HikariDataSource Line:107 - HikariPool-1 - Start completed.
+===2018-12-05 15:18:29.257 INFO  Application Line:48  - Starting Application on DESKTOP-7NNO5PD with PID 18512 (started by cbalt in H:\项目\学校项目\diary-boot)
+===2018-12-05 15:18:29.261 INFO  Application Line:593 - No active profile set, falling back to default profiles: default
+===2018-12-05 15:18:29.408 INFO  org.hibernate.validator.internal.util.Version Line:30  - HV000001: Hibernate Validator 5.3.5.Final
+===2018-12-05 15:18:34.323 INFO  org.apache.catalina.core.StandardService Line:179 - Starting service [Tomcat]
+===2018-12-05 15:18:34.325 INFO  org.apache.catalina.core.StandardEngine Line:179 - Starting Servlet Engine: Apache Tomcat/8.5.23
+===2018-12-05 15:18:34.438 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:179 - Initializing Spring embedded WebApplicationContext
+===2018-12-05 15:18:36.911 INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler Line:60  - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+===2018-12-05 15:18:36.912 INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler Line:60  - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+===2018-12-05 15:18:36.913 INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler Line:60  - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+===2018-12-05 15:18:36.913 INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler Line:83  - Clear EntityHelper entityTableMap cache.
+===2018-12-05 15:18:37.965 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Initializing ProtocolHandler ["https-jsse-nio-9999"]
+===2018-12-05 15:18:37.978 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Starting ProtocolHandler ["https-jsse-nio-9999"]
+===2018-12-05 15:18:38.184 INFO  org.apache.tomcat.util.net.NioSelectorPool Line:179 - Using a shared selector for servlet write/read
+===2018-12-05 15:18:38.196 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Initializing ProtocolHandler ["http-nio-80"]
+===2018-12-05 15:18:38.198 INFO  org.apache.tomcat.util.net.NioSelectorPool Line:179 - Using a shared selector for servlet write/read
+===2018-12-05 15:18:38.199 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Starting ProtocolHandler ["http-nio-80"]
+===2018-12-05 15:18:38.214 INFO  Application Line:28  - 服务器启动成功。。。
+===2018-12-05 15:18:38.216 INFO  Application Line:57  - Started Application in 9.298 seconds (JVM running for 12.151)
+===2018-12-05 15:18:43.769 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:179 - Initializing Spring FrameworkServlet 'dispatcherServlet'
+===2018-12-05 15:18:43.894 INFO  org.thymeleaf.TemplateEngine Line:825 - [THYMELEAF] INITIALIZING TEMPLATE ENGINE
+===2018-12-05 15:18:43.930 INFO  org.thymeleaf.templateresolver.AbstractTemplateResolver Line:99  - [THYMELEAF] INITIALIZING TEMPLATE RESOLVER: org.thymeleaf.spring4.templateresolver.SpringResourceTemplateResolver
+===2018-12-05 15:18:43.931 INFO  org.thymeleaf.templateresolver.AbstractTemplateResolver Line:110 - [THYMELEAF] TEMPLATE RESOLVER INITIALIZED OK
+===2018-12-05 15:18:43.931 INFO  org.thymeleaf.messageresolver.AbstractMessageResolver Line:72  - [THYMELEAF] INITIALIZING MESSAGE RESOLVER: org.thymeleaf.spring4.messageresolver.SpringMessageResolver
+===2018-12-05 15:18:43.931 INFO  org.thymeleaf.messageresolver.AbstractMessageResolver Line:78  - [THYMELEAF] MESSAGE RESOLVER INITIALIZED OK
+===2018-12-05 15:18:43.935 INFO  org.thymeleaf.TemplateEngine.CONFIG Line:123 - [THYMELEAF] TEMPLATE ENGINE CONFIGURATION:
+[THYMELEAF] * Cache Factory implementation: org.thymeleaf.cache.StandardCacheManager
+[THYMELEAF] * Template modes:
+[THYMELEAF]     * VALIDXML
+[THYMELEAF]     * XHTML
+[THYMELEAF]     * HTML5
+[THYMELEAF]     * VALIDXHTML
+[THYMELEAF]     * LEGACYHTML5
+[THYMELEAF]     * XML
+[THYMELEAF] * Template resolvers (in order):
+[THYMELEAF]     * org.thymeleaf.spring4.templateresolver.SpringResourceTemplateResolver
+[THYMELEAF] * Message resolvers (in order):
+[THYMELEAF]     * org.thymeleaf.spring4.messageresolver.SpringMessageResolver
+[THYMELEAF] * Dialect [1 of 3]: org.thymeleaf.spring4.dialect.SpringStandardDialect
+[THYMELEAF]     * Prefix: "th"
+[THYMELEAF] * Dialect [2 of 3]: at.pollux.thymeleaf.shiro.dialect.ShiroDialect
+[THYMELEAF]     * Prefix: "shiro"
+[THYMELEAF] * Dialect [3 of 3]: nz.net.ultraq.thymeleaf.LayoutDialect
+[THYMELEAF]     * Prefix: "layout"
+[THYMELEAF] TEMPLATE ENGINE CONFIGURED OK
+===2018-12-05 15:18:43.935 INFO  org.thymeleaf.TemplateEngine Line:838 - [THYMELEAF] TEMPLATE ENGINE INITIALIZED
+===2018-12-05 15:20:54.285 INFO  com.zaxxer.hikari.HikariDataSource Line:95  - HikariPool-1 - Starting...
+===2018-12-05 15:20:54.518 INFO  com.zaxxer.hikari.HikariDataSource Line:107 - HikariPool-1 - Start completed.
+===2018-12-05 15:33:44.505 INFO  Application Line:48  - Starting Application on DESKTOP-7NNO5PD with PID 14136 (started by cbalt in H:\项目\学校项目\diary-boot)
+===2018-12-05 15:33:44.508 INFO  Application Line:593 - No active profile set, falling back to default profiles: default
+===2018-12-05 15:33:44.630 INFO  org.hibernate.validator.internal.util.Version Line:30  - HV000001: Hibernate Validator 5.3.5.Final
+===2018-12-05 15:33:48.881 INFO  org.apache.catalina.core.StandardService Line:179 - Starting service [Tomcat]
+===2018-12-05 15:33:48.882 INFO  org.apache.catalina.core.StandardEngine Line:179 - Starting Servlet Engine: Apache Tomcat/8.5.23
+===2018-12-05 15:33:49.003 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:179 - Initializing Spring embedded WebApplicationContext
+===2018-12-05 15:33:51.499 INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler Line:60  - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+===2018-12-05 15:33:51.500 INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler Line:60  - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+===2018-12-05 15:33:51.500 INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler Line:60  - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+===2018-12-05 15:33:51.501 INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler Line:83  - Clear EntityHelper entityTableMap cache.
+===2018-12-05 15:33:52.584 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Initializing ProtocolHandler ["https-jsse-nio-9999"]
+===2018-12-05 15:33:52.597 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Starting ProtocolHandler ["https-jsse-nio-9999"]
+===2018-12-05 15:33:52.821 INFO  org.apache.tomcat.util.net.NioSelectorPool Line:179 - Using a shared selector for servlet write/read
+===2018-12-05 15:33:52.833 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Initializing ProtocolHandler ["http-nio-80"]
+===2018-12-05 15:33:52.835 INFO  org.apache.tomcat.util.net.NioSelectorPool Line:179 - Using a shared selector for servlet write/read
+===2018-12-05 15:33:52.836 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Starting ProtocolHandler ["http-nio-80"]
+===2018-12-05 15:33:52.853 INFO  Application Line:28  - 服务器启动成功。。。
+===2018-12-05 15:33:52.855 INFO  Application Line:57  - Started Application in 8.723 seconds (JVM running for 11.711)
+===2018-12-05 15:34:08.265 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:179 - Initializing Spring FrameworkServlet 'dispatcherServlet'
+===2018-12-05 15:34:47.592 INFO  com.zaxxer.hikari.HikariDataSource Line:95  - HikariPool-1 - Starting...
+===2018-12-05 15:34:47.794 INFO  com.zaxxer.hikari.HikariDataSource Line:107 - HikariPool-1 - Start completed.
+===2018-12-05 15:34:48.138 INFO  org.thymeleaf.TemplateEngine Line:825 - [THYMELEAF] INITIALIZING TEMPLATE ENGINE
+===2018-12-05 15:34:48.205 INFO  org.thymeleaf.templateresolver.AbstractTemplateResolver Line:99  - [THYMELEAF] INITIALIZING TEMPLATE RESOLVER: org.thymeleaf.spring4.templateresolver.SpringResourceTemplateResolver
+===2018-12-05 15:34:48.206 INFO  org.thymeleaf.templateresolver.AbstractTemplateResolver Line:110 - [THYMELEAF] TEMPLATE RESOLVER INITIALIZED OK
+===2018-12-05 15:34:48.207 INFO  org.thymeleaf.messageresolver.AbstractMessageResolver Line:72  - [THYMELEAF] INITIALIZING MESSAGE RESOLVER: org.thymeleaf.spring4.messageresolver.SpringMessageResolver
+===2018-12-05 15:34:48.207 INFO  org.thymeleaf.messageresolver.AbstractMessageResolver Line:78  - [THYMELEAF] MESSAGE RESOLVER INITIALIZED OK
+===2018-12-05 15:34:48.212 INFO  org.thymeleaf.TemplateEngine.CONFIG Line:123 - [THYMELEAF] TEMPLATE ENGINE CONFIGURATION:
+[THYMELEAF] * Cache Factory implementation: org.thymeleaf.cache.StandardCacheManager
+[THYMELEAF] * Template modes:
+[THYMELEAF]     * VALIDXHTML
+[THYMELEAF]     * LEGACYHTML5
+[THYMELEAF]     * HTML5
+[THYMELEAF]     * XML
+[THYMELEAF]     * XHTML
+[THYMELEAF]     * VALIDXML
+[THYMELEAF] * Template resolvers (in order):
+[THYMELEAF]     * org.thymeleaf.spring4.templateresolver.SpringResourceTemplateResolver
+[THYMELEAF] * Message resolvers (in order):
+[THYMELEAF]     * org.thymeleaf.spring4.messageresolver.SpringMessageResolver
+[THYMELEAF] * Dialect [1 of 3]: org.thymeleaf.spring4.dialect.SpringStandardDialect
+[THYMELEAF]     * Prefix: "th"
+[THYMELEAF] * Dialect [2 of 3]: at.pollux.thymeleaf.shiro.dialect.ShiroDialect
+[THYMELEAF]     * Prefix: "shiro"
+[THYMELEAF] * Dialect [3 of 3]: nz.net.ultraq.thymeleaf.LayoutDialect
+[THYMELEAF]     * Prefix: "layout"
+[THYMELEAF] TEMPLATE ENGINE CONFIGURED OK
+===2018-12-05 15:34:48.213 INFO  org.thymeleaf.TemplateEngine Line:838 - [THYMELEAF] TEMPLATE ENGINE INITIALIZED
+===2018-12-05 16:02:55.581 INFO  Application Line:48  - Starting Application on DESKTOP-7NNO5PD with PID 18652 (started by cbalt in H:\项目\学校项目\diary-boot)
+===2018-12-05 16:02:55.585 INFO  Application Line:593 - No active profile set, falling back to default profiles: default
+===2018-12-05 16:02:55.759 INFO  org.hibernate.validator.internal.util.Version Line:30  - HV000001: Hibernate Validator 5.3.5.Final
+===2018-12-05 16:03:01.808 INFO  org.apache.catalina.core.StandardService Line:179 - Starting service [Tomcat]
+===2018-12-05 16:03:01.809 INFO  org.apache.catalina.core.StandardEngine Line:179 - Starting Servlet Engine: Apache Tomcat/8.5.23
+===2018-12-05 16:03:01.928 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:179 - Initializing Spring embedded WebApplicationContext
+===2018-12-05 16:03:04.387 INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler Line:60  - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+===2018-12-05 16:03:04.388 INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler Line:60  - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+===2018-12-05 16:03:04.389 INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler Line:60  - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+===2018-12-05 16:03:04.389 INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler Line:83  - Clear EntityHelper entityTableMap cache.
+===2018-12-05 16:03:05.525 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Initializing ProtocolHandler ["https-jsse-nio-9999"]
+===2018-12-05 16:03:05.540 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Starting ProtocolHandler ["https-jsse-nio-9999"]
+===2018-12-05 16:03:05.733 INFO  org.apache.tomcat.util.net.NioSelectorPool Line:179 - Using a shared selector for servlet write/read
+===2018-12-05 16:03:05.749 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Initializing ProtocolHandler ["http-nio-80"]
+===2018-12-05 16:03:05.750 INFO  org.apache.tomcat.util.net.NioSelectorPool Line:179 - Using a shared selector for servlet write/read
+===2018-12-05 16:03:05.751 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Starting ProtocolHandler ["http-nio-80"]
+===2018-12-05 16:03:05.766 INFO  Application Line:28  - 服务器启动成功。。。
+===2018-12-05 16:03:05.767 INFO  Application Line:57  - Started Application in 10.756 seconds (JVM running for 13.665)
+===2018-12-05 16:03:18.524 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:179 - Initializing Spring FrameworkServlet 'dispatcherServlet'
+===2018-12-05 16:03:18.632 INFO  org.thymeleaf.TemplateEngine Line:825 - [THYMELEAF] INITIALIZING TEMPLATE ENGINE
+===2018-12-05 16:03:18.669 INFO  org.thymeleaf.templateresolver.AbstractTemplateResolver Line:99  - [THYMELEAF] INITIALIZING TEMPLATE RESOLVER: org.thymeleaf.spring4.templateresolver.SpringResourceTemplateResolver
+===2018-12-05 16:03:18.669 INFO  org.thymeleaf.templateresolver.AbstractTemplateResolver Line:110 - [THYMELEAF] TEMPLATE RESOLVER INITIALIZED OK
+===2018-12-05 16:03:18.670 INFO  org.thymeleaf.messageresolver.AbstractMessageResolver Line:72  - [THYMELEAF] INITIALIZING MESSAGE RESOLVER: org.thymeleaf.spring4.messageresolver.SpringMessageResolver
+===2018-12-05 16:03:18.670 INFO  org.thymeleaf.messageresolver.AbstractMessageResolver Line:78  - [THYMELEAF] MESSAGE RESOLVER INITIALIZED OK
+===2018-12-05 16:03:18.673 INFO  org.thymeleaf.TemplateEngine.CONFIG Line:123 - [THYMELEAF] TEMPLATE ENGINE CONFIGURATION:
+[THYMELEAF] * Cache Factory implementation: org.thymeleaf.cache.StandardCacheManager
+[THYMELEAF] * Template modes:
+[THYMELEAF]     * XML
+[THYMELEAF]     * HTML5
+[THYMELEAF]     * VALIDXML
+[THYMELEAF]     * XHTML
+[THYMELEAF]     * VALIDXHTML
+[THYMELEAF]     * LEGACYHTML5
+[THYMELEAF] * Template resolvers (in order):
+[THYMELEAF]     * org.thymeleaf.spring4.templateresolver.SpringResourceTemplateResolver
+[THYMELEAF] * Message resolvers (in order):
+[THYMELEAF]     * org.thymeleaf.spring4.messageresolver.SpringMessageResolver
+[THYMELEAF] * Dialect [1 of 3]: org.thymeleaf.spring4.dialect.SpringStandardDialect
+[THYMELEAF]     * Prefix: "th"
+[THYMELEAF] * Dialect [2 of 3]: at.pollux.thymeleaf.shiro.dialect.ShiroDialect
+[THYMELEAF]     * Prefix: "shiro"
+[THYMELEAF] * Dialect [3 of 3]: nz.net.ultraq.thymeleaf.LayoutDialect
+[THYMELEAF]     * Prefix: "layout"
+[THYMELEAF] TEMPLATE ENGINE CONFIGURED OK
+===2018-12-05 16:03:18.674 INFO  org.thymeleaf.TemplateEngine Line:838 - [THYMELEAF] TEMPLATE ENGINE INITIALIZED
+===2018-12-05 16:04:13.424 INFO  com.zaxxer.hikari.HikariDataSource Line:95  - HikariPool-1 - Starting...
+===2018-12-05 16:04:13.590 INFO  com.zaxxer.hikari.HikariDataSource Line:107 - HikariPool-1 - Start completed.
+===2018-12-05 16:07:40.285 INFO  Application Line:48  - Starting Application on DESKTOP-7NNO5PD with PID 12116 (started by cbalt in H:\项目\学校项目\diary-boot)
+===2018-12-05 16:07:40.289 INFO  Application Line:593 - No active profile set, falling back to default profiles: default
+===2018-12-05 16:07:40.513 INFO  org.hibernate.validator.internal.util.Version Line:30  - HV000001: Hibernate Validator 5.3.5.Final
+===2018-12-05 16:07:44.556 INFO  org.apache.catalina.core.StandardService Line:179 - Starting service [Tomcat]
+===2018-12-05 16:07:44.557 INFO  org.apache.catalina.core.StandardEngine Line:179 - Starting Servlet Engine: Apache Tomcat/8.5.23
+===2018-12-05 16:07:44.674 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:179 - Initializing Spring embedded WebApplicationContext
+===2018-12-05 16:07:47.121 INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler Line:60  - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+===2018-12-05 16:07:47.122 INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler Line:60  - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+===2018-12-05 16:07:47.123 INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler Line:60  - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+===2018-12-05 16:07:47.123 INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler Line:83  - Clear EntityHelper entityTableMap cache.
+===2018-12-05 16:07:48.199 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Initializing ProtocolHandler ["https-jsse-nio-9999"]
+===2018-12-05 16:07:48.212 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Starting ProtocolHandler ["https-jsse-nio-9999"]
+===2018-12-05 16:07:48.332 INFO  org.apache.tomcat.util.net.NioSelectorPool Line:179 - Using a shared selector for servlet write/read
+===2018-12-05 16:07:48.363 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Initializing ProtocolHandler ["http-nio-80"]
+===2018-12-05 16:07:48.366 INFO  org.apache.tomcat.util.net.NioSelectorPool Line:179 - Using a shared selector for servlet write/read
+===2018-12-05 16:07:48.366 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Starting ProtocolHandler ["http-nio-80"]
+===2018-12-05 16:07:48.380 INFO  Application Line:28  - 服务器启动成功。。。
+===2018-12-05 16:07:48.382 INFO  Application Line:57  - Started Application in 8.697 seconds (JVM running for 11.148)
+===2018-12-05 16:08:15.028 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:179 - Initializing Spring FrameworkServlet 'dispatcherServlet'
+===2018-12-05 16:08:15.207 INFO  org.thymeleaf.TemplateEngine Line:825 - [THYMELEAF] INITIALIZING TEMPLATE ENGINE
+===2018-12-05 16:08:15.265 INFO  org.thymeleaf.templateresolver.AbstractTemplateResolver Line:99  - [THYMELEAF] INITIALIZING TEMPLATE RESOLVER: org.thymeleaf.spring4.templateresolver.SpringResourceTemplateResolver
+===2018-12-05 16:08:15.266 INFO  org.thymeleaf.templateresolver.AbstractTemplateResolver Line:110 - [THYMELEAF] TEMPLATE RESOLVER INITIALIZED OK
+===2018-12-05 16:08:15.267 INFO  org.thymeleaf.messageresolver.AbstractMessageResolver Line:72  - [THYMELEAF] INITIALIZING MESSAGE RESOLVER: org.thymeleaf.spring4.messageresolver.SpringMessageResolver
+===2018-12-05 16:08:15.267 INFO  org.thymeleaf.messageresolver.AbstractMessageResolver Line:78  - [THYMELEAF] MESSAGE RESOLVER INITIALIZED OK
+===2018-12-05 16:08:15.274 INFO  org.thymeleaf.TemplateEngine.CONFIG Line:123 - [THYMELEAF] TEMPLATE ENGINE CONFIGURATION:
+[THYMELEAF] * Cache Factory implementation: org.thymeleaf.cache.StandardCacheManager
+[THYMELEAF] * Template modes:
+[THYMELEAF]     * VALIDXHTML
+[THYMELEAF]     * VALIDXML
+[THYMELEAF]     * HTML5
+[THYMELEAF]     * XML
+[THYMELEAF]     * XHTML
+[THYMELEAF]     * LEGACYHTML5
+[THYMELEAF] * Template resolvers (in order):
+[THYMELEAF]     * org.thymeleaf.spring4.templateresolver.SpringResourceTemplateResolver
+[THYMELEAF] * Message resolvers (in order):
+[THYMELEAF]     * org.thymeleaf.spring4.messageresolver.SpringMessageResolver
+[THYMELEAF] * Dialect [1 of 3]: org.thymeleaf.spring4.dialect.SpringStandardDialect
+[THYMELEAF]     * Prefix: "th"
+[THYMELEAF] * Dialect [2 of 3]: at.pollux.thymeleaf.shiro.dialect.ShiroDialect
+[THYMELEAF]     * Prefix: "shiro"
+[THYMELEAF] * Dialect [3 of 3]: nz.net.ultraq.thymeleaf.LayoutDialect
+[THYMELEAF]     * Prefix: "layout"
+[THYMELEAF] TEMPLATE ENGINE CONFIGURED OK
+===2018-12-05 16:08:15.275 INFO  org.thymeleaf.TemplateEngine Line:838 - [THYMELEAF] TEMPLATE ENGINE INITIALIZED
+===2018-12-05 16:09:23.631 INFO  com.zaxxer.hikari.HikariDataSource Line:95  - HikariPool-1 - Starting...
+===2018-12-05 16:09:23.791 INFO  com.zaxxer.hikari.HikariDataSource Line:107 - HikariPool-1 - Start completed.
+===2018-12-05 16:47:39.389 INFO  Application Line:48  - Starting Application on DESKTOP-7NNO5PD with PID 15792 (started by cbalt in H:\项目\学校项目\diary-boot)
+===2018-12-05 16:47:39.394 INFO  Application Line:593 - No active profile set, falling back to default profiles: default
+===2018-12-05 16:47:39.584 INFO  org.hibernate.validator.internal.util.Version Line:30  - HV000001: Hibernate Validator 5.3.5.Final
+===2018-12-05 16:47:45.045 INFO  org.apache.catalina.core.StandardService Line:179 - Starting service [Tomcat]
+===2018-12-05 16:47:45.047 INFO  org.apache.catalina.core.StandardEngine Line:179 - Starting Servlet Engine: Apache Tomcat/8.5.23
+===2018-12-05 16:47:45.196 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:179 - Initializing Spring embedded WebApplicationContext
+===2018-12-05 16:47:47.594 INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler Line:60  - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+===2018-12-05 16:47:47.595 INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler Line:60  - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+===2018-12-05 16:47:47.595 INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler Line:60  - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+===2018-12-05 16:47:47.596 INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler Line:83  - Clear EntityHelper entityTableMap cache.
+===2018-12-05 16:47:48.708 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Initializing ProtocolHandler ["https-jsse-nio-9999"]
+===2018-12-05 16:47:48.721 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Starting ProtocolHandler ["https-jsse-nio-9999"]
+===2018-12-05 16:47:48.844 INFO  org.apache.tomcat.util.net.NioSelectorPool Line:179 - Using a shared selector for servlet write/read
+===2018-12-05 16:47:48.856 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Initializing ProtocolHandler ["http-nio-80"]
+===2018-12-05 16:47:48.859 INFO  org.apache.tomcat.util.net.NioSelectorPool Line:179 - Using a shared selector for servlet write/read
+===2018-12-05 16:47:48.860 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Starting ProtocolHandler ["http-nio-80"]
+===2018-12-05 16:47:48.874 INFO  Application Line:28  - 服务器启动成功。。。
+===2018-12-05 16:47:48.875 INFO  Application Line:57  - Started Application in 10.079 seconds (JVM running for 12.479)
+===2018-12-05 16:48:02.453 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:179 - Initializing Spring FrameworkServlet 'dispatcherServlet'
+===2018-12-05 16:48:02.664 INFO  org.thymeleaf.TemplateEngine Line:825 - [THYMELEAF] INITIALIZING TEMPLATE ENGINE
+===2018-12-05 16:48:02.721 INFO  org.thymeleaf.templateresolver.AbstractTemplateResolver Line:99  - [THYMELEAF] INITIALIZING TEMPLATE RESOLVER: org.thymeleaf.spring4.templateresolver.SpringResourceTemplateResolver
+===2018-12-05 16:48:02.721 INFO  org.thymeleaf.templateresolver.AbstractTemplateResolver Line:110 - [THYMELEAF] TEMPLATE RESOLVER INITIALIZED OK
+===2018-12-05 16:48:02.722 INFO  org.thymeleaf.messageresolver.AbstractMessageResolver Line:72  - [THYMELEAF] INITIALIZING MESSAGE RESOLVER: org.thymeleaf.spring4.messageresolver.SpringMessageResolver
+===2018-12-05 16:48:02.723 INFO  org.thymeleaf.messageresolver.AbstractMessageResolver Line:78  - [THYMELEAF] MESSAGE RESOLVER INITIALIZED OK
+===2018-12-05 16:48:02.729 INFO  org.thymeleaf.TemplateEngine.CONFIG Line:123 - [THYMELEAF] TEMPLATE ENGINE CONFIGURATION:
+[THYMELEAF] * Cache Factory implementation: org.thymeleaf.cache.StandardCacheManager
+[THYMELEAF] * Template modes:
+[THYMELEAF]     * XML
+[THYMELEAF]     * XHTML
+[THYMELEAF]     * LEGACYHTML5
+[THYMELEAF]     * HTML5
+[THYMELEAF]     * VALIDXML
+[THYMELEAF]     * VALIDXHTML
+[THYMELEAF] * Template resolvers (in order):
+[THYMELEAF]     * org.thymeleaf.spring4.templateresolver.SpringResourceTemplateResolver
+[THYMELEAF] * Message resolvers (in order):
+[THYMELEAF]     * org.thymeleaf.spring4.messageresolver.SpringMessageResolver
+[THYMELEAF] * Dialect [1 of 3]: org.thymeleaf.spring4.dialect.SpringStandardDialect
+[THYMELEAF]     * Prefix: "th"
+[THYMELEAF] * Dialect [2 of 3]: at.pollux.thymeleaf.shiro.dialect.ShiroDialect
+[THYMELEAF]     * Prefix: "shiro"
+[THYMELEAF] * Dialect [3 of 3]: nz.net.ultraq.thymeleaf.LayoutDialect
+[THYMELEAF]     * Prefix: "layout"
+[THYMELEAF] TEMPLATE ENGINE CONFIGURED OK
+===2018-12-05 16:48:02.730 INFO  org.thymeleaf.TemplateEngine Line:838 - [THYMELEAF] TEMPLATE ENGINE INITIALIZED
+===2018-12-05 16:49:02.810 INFO  com.zaxxer.hikari.HikariDataSource Line:95  - HikariPool-1 - Starting...
+===2018-12-05 16:49:02.979 INFO  com.zaxxer.hikari.HikariDataSource Line:107 - HikariPool-1 - Start completed.
+===2018-12-05 17:17:33.180 INFO  Application Line:48  - Starting Application on DESKTOP-7NNO5PD with PID 6372 (started by cbalt in H:\项目\学校项目\diary-boot)
+===2018-12-05 17:17:33.183 INFO  Application Line:593 - No active profile set, falling back to default profiles: default
+===2018-12-05 17:17:33.362 INFO  org.hibernate.validator.internal.util.Version Line:30  - HV000001: Hibernate Validator 5.3.5.Final
+===2018-12-05 17:17:38.448 INFO  org.apache.catalina.core.StandardService Line:179 - Starting service [Tomcat]
+===2018-12-05 17:17:38.449 INFO  org.apache.catalina.core.StandardEngine Line:179 - Starting Servlet Engine: Apache Tomcat/8.5.23
+===2018-12-05 17:17:38.569 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:179 - Initializing Spring embedded WebApplicationContext
+===2018-12-05 17:17:40.883 INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler Line:60  - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+===2018-12-05 17:17:40.884 INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler Line:60  - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+===2018-12-05 17:17:40.886 INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler Line:60  - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+===2018-12-05 17:17:40.886 INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler Line:83  - Clear EntityHelper entityTableMap cache.
+===2018-12-05 17:17:42.562 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Initializing ProtocolHandler ["https-jsse-nio-9999"]
+===2018-12-05 17:17:42.581 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Starting ProtocolHandler ["https-jsse-nio-9999"]
+===2018-12-05 17:17:42.715 INFO  org.apache.tomcat.util.net.NioSelectorPool Line:179 - Using a shared selector for servlet write/read
+===2018-12-05 17:17:42.726 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Initializing ProtocolHandler ["http-nio-80"]
+===2018-12-05 17:17:42.728 INFO  org.apache.tomcat.util.net.NioSelectorPool Line:179 - Using a shared selector for servlet write/read
+===2018-12-05 17:17:42.729 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Starting ProtocolHandler ["http-nio-80"]
+===2018-12-05 17:17:42.744 INFO  Application Line:28  - 服务器启动成功。。。
+===2018-12-05 17:17:42.745 INFO  Application Line:57  - Started Application in 10.008 seconds (JVM running for 12.857)
+===2018-12-05 17:17:49.079 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:179 - Initializing Spring FrameworkServlet 'dispatcherServlet'
+===2018-12-05 17:17:49.198 INFO  org.thymeleaf.TemplateEngine Line:825 - [THYMELEAF] INITIALIZING TEMPLATE ENGINE
+===2018-12-05 17:17:49.235 INFO  org.thymeleaf.templateresolver.AbstractTemplateResolver Line:99  - [THYMELEAF] INITIALIZING TEMPLATE RESOLVER: org.thymeleaf.spring4.templateresolver.SpringResourceTemplateResolver
+===2018-12-05 17:17:49.236 INFO  org.thymeleaf.templateresolver.AbstractTemplateResolver Line:110 - [THYMELEAF] TEMPLATE RESOLVER INITIALIZED OK
+===2018-12-05 17:17:49.237 INFO  org.thymeleaf.messageresolver.AbstractMessageResolver Line:72  - [THYMELEAF] INITIALIZING MESSAGE RESOLVER: org.thymeleaf.spring4.messageresolver.SpringMessageResolver
+===2018-12-05 17:17:49.238 INFO  org.thymeleaf.messageresolver.AbstractMessageResolver Line:78  - [THYMELEAF] MESSAGE RESOLVER INITIALIZED OK
+===2018-12-05 17:17:49.243 INFO  org.thymeleaf.TemplateEngine.CONFIG Line:123 - [THYMELEAF] TEMPLATE ENGINE CONFIGURATION:
+[THYMELEAF] * Cache Factory implementation: org.thymeleaf.cache.StandardCacheManager
+[THYMELEAF] * Template modes:
+[THYMELEAF]     * HTML5
+[THYMELEAF]     * VALIDXHTML
+[THYMELEAF]     * XHTML
+[THYMELEAF]     * LEGACYHTML5
+[THYMELEAF]     * XML
+[THYMELEAF]     * VALIDXML
+[THYMELEAF] * Template resolvers (in order):
+[THYMELEAF]     * org.thymeleaf.spring4.templateresolver.SpringResourceTemplateResolver
+[THYMELEAF] * Message resolvers (in order):
+[THYMELEAF]     * org.thymeleaf.spring4.messageresolver.SpringMessageResolver
+[THYMELEAF] * Dialect [1 of 3]: org.thymeleaf.spring4.dialect.SpringStandardDialect
+[THYMELEAF]     * Prefix: "th"
+[THYMELEAF] * Dialect [2 of 3]: at.pollux.thymeleaf.shiro.dialect.ShiroDialect
+[THYMELEAF]     * Prefix: "shiro"
+[THYMELEAF] * Dialect [3 of 3]: nz.net.ultraq.thymeleaf.LayoutDialect
+[THYMELEAF]     * Prefix: "layout"
+[THYMELEAF] TEMPLATE ENGINE CONFIGURED OK
+===2018-12-05 17:17:49.243 INFO  org.thymeleaf.TemplateEngine Line:838 - [THYMELEAF] TEMPLATE ENGINE INITIALIZED
+===2018-12-05 17:18:45.364 INFO  com.zaxxer.hikari.HikariDataSource Line:95  - HikariPool-1 - Starting...
+===2018-12-05 17:18:45.529 INFO  com.zaxxer.hikari.HikariDataSource Line:107 - HikariPool-1 - Start completed.

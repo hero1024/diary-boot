@@ -1,0 +1,21 @@
+===2018-12-12 11:56:03.044 INFO  com.lh.diary.Application Line:48  - Starting Application on DESKTOP-7NNO5PD with PID 11204 (started by cbalt in H:\项目\学校项目\第七学期学生项目文档模板\diary-boot)
+===2018-12-12 11:56:03.094 INFO  com.lh.diary.Application Line:593 - No active profile set, falling back to default profiles: default
+===2018-12-12 11:56:03.726 INFO  org.hibernate.validator.internal.util.Version Line:30  - HV000001: Hibernate Validator 5.3.5.Final
+===2018-12-12 11:56:12.058 INFO  com.spj.diary.Application Line:48  - Starting Application on DESKTOP-7NNO5PD with PID 9696 (started by cbalt in H:\项目\学校项目\第七学期学生项目文档模板\diary-boot)
+===2018-12-12 11:56:12.062 INFO  com.spj.diary.Application Line:593 - No active profile set, falling back to default profiles: default
+===2018-12-12 11:56:12.297 INFO  org.hibernate.validator.internal.util.Version Line:30  - HV000001: Hibernate Validator 5.3.5.Final
+===2018-12-12 11:56:27.473 INFO  org.apache.catalina.core.StandardService Line:179 - Starting service [Tomcat]
+===2018-12-12 11:56:27.476 INFO  org.apache.catalina.core.StandardEngine Line:179 - Starting Servlet Engine: Apache Tomcat/8.5.23
+===2018-12-12 11:56:27.841 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:179 - Initializing Spring embedded WebApplicationContext
+===2018-12-12 11:56:33.870 INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler Line:60  - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+===2018-12-12 11:56:33.872 INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler Line:60  - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+===2018-12-12 11:56:33.873 INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler Line:60  - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+===2018-12-12 11:56:33.874 INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler Line:83  - Clear EntityHelper entityTableMap cache.
+===2018-12-12 11:56:36.705 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Initializing ProtocolHandler ["https-jsse-nio-8080"]
+===2018-12-12 11:56:36.748 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Starting ProtocolHandler ["https-jsse-nio-8080"]
+===2018-12-12 11:56:37.222 INFO  org.apache.tomcat.util.net.NioSelectorPool Line:179 - Using a shared selector for servlet write/read
+===2018-12-12 11:56:37.241 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Initializing ProtocolHandler ["http-nio-80"]
+===2018-12-12 11:56:37.244 INFO  org.apache.tomcat.util.net.NioSelectorPool Line:179 - Using a shared selector for servlet write/read
+===2018-12-12 11:56:37.245 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Starting ProtocolHandler ["http-nio-80"]
+===2018-12-12 11:56:37.271 INFO  com.spj.diary.Application Line:27  - 服务器启动成功。。。
+===2018-12-12 11:56:37.273 INFO  com.spj.diary.Application Line:57  - Started Application in 26.137 seconds (JVM running for 30.697)
